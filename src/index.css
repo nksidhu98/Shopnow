@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.profile{
+  width: 40px;
+  float: right;
+  margin-top: 15px;
+  padding-right: 20px;
+}
+.cart{
+  width:40px;
+  margin-top: 15px;
+  float: right;
+  padding-right: 20px;
+}
+
+.header{
+  height: 70px;
+  width: 1440px;
+  background-color: #FFFFFF;
+}
+
+.card{
+  width:250px;
+  height:350px;
+  background-color: #FFFFFF;
+  margin: 15px;
+  overflow: auto;
+
+}
+
+.background-color{
+  background-color: #e6e6e6;
+}
